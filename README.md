@@ -15,7 +15,11 @@ You can quickly and easily generate a README file by using a command-line applic
 
 ## Installation
 
-npm i inquirer is used to install dependencies.
+  ```npm init``` is used to install dependencies.
+
+ ## Usage
+  Node.js must be installed onto your system prior to usage.
+  Repo MUST include package.json with required dependencies.
 
 ## License
 
@@ -26,6 +30,9 @@ npm i inquirer is used to install dependencies.
 
 - https://www.geeksforgeeks.org/ - documentation for node.js inquirer functions and switch case
 - https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba - source for LISC badges
+
+## Tests
+  ```node index.js``` is used to run tests.
 
 ## Screenshots
 
